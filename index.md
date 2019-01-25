@@ -1,91 +1,113 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mirco Grillo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mirco Grillo
+Software Developer. Python lover. Always curious.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:mirco.grillomg@gmail.com">mirco.grillomg@gmail.com</a>
+| <a href="https://linkedin.com/in/mirco-grillo-680a96117/">Linkedin Profile</a>
+| <a href="https://github.com/iflare3g/">Github Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Fullstack Developer - __OTIX srl__. 
 
-### Specialized in
+__Current stack__
+  - Python 3.x
+  - Django 2.x
+  - ReactJS 16.x.x
+  - HTML5, CSS3, ES6/ES7
+  - Docker 
+  - MySQL/Postgres
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Employment
 
+`Dec 2017 - Jul 2018`
+__World Food Programme for Softlab Innovation__.  
+__Where__: Rome(IT)
+  - Django Developer
+  - Project:   
+        Telephone Management System to handle WFP Users calls’ billing files and generate cost files, handling SIM  assignments, personal or business calls.
+  - Tech stack:   
+        Django 1.8, PostgresSQL, HTML,CSS,JS, pytest and selenium, Jenkins as CI, JIRA Board, Git
 
-### Research interests
+`Mar 2017 - Oct 2017`
+__Bway Engineering & Consulting__.  
+__Where__: Rome(IT)
+  - Python Developer
+  - Project:   
+        Alcantara Monitoring System is an IoT architechture where we have built everything, from devices to the web app to visualize data sent from them.
+The devices have been thrown into the sicilian Alcantara river to take data about its speed, temperature and geo position. Every device sent data to a service developed with Flask microframework, called by frontend to visualize on a map the devices with their data to make calculations.
+  - Tech stack:   
+        Python 2.x, Flask, HTML,CSS,Jquery, Ajax, Bootstrap, Raspberry PI 3 with Debian, Arduino
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Aug 2016 - Sep 2016`
+__ECCO Shoes__.  
+__Where__: Dublin(IRE)
+  - Sales Assistant
+  - I mainly deal with the sale of ECCO Shoes merchandise and ware-house management. This experience is mainly served for English. I got the TOEFL B1/B2 Certificate at the end of this experience.
+
+`Oct 2015 - Nov 2015`
+__TIGER Shop__.  
+  - I have been dealing mainly with the management of the store ware-house and the management of the various sections of  products present and sold by the company. The main goal was to stay as close as possible to local people for improving English.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015 - Currently`
+__INFORMATICS ENGINEERING__.     
+Uninettuno University
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016 - 2017`
+__CISCO Skillzone Program__.  
+  - I attended the pilot project of Cisco in Italy at Elis College, focusing on aspects mainly related to IT,networking and data analysis, using Python technologies (Pandas, Numpy, Scikit-learn, etc.) and develop-ing small algorithms Machine Learning and Neural Networks, using, for example, TensorFlow.
 
-- Sizar
+`2015 - 2016`
+__IT SYSTEM ARCHITECT__. 
+  - ELIS College
+  - I studied at ELIS College in Rome where I have developed knowledge mainly in these areas: OOP Java SE 7;Network-ing;Security;Database(MySQL)
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2010 - 2015`
+__DIPLOMA__. 
+  - ITIS E. Ferrari 
+  - I graduate in informatics, where I have undertaken studies relating to computer networks, software development, relational databases and computer technology designing systems.
+  - Final rating: 100 cum Laude
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
+THIRD PLACE NASA SPACE APPS CHALLENGE
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2015`
+ROTARY CLUB MEMBERSHIP
 
 
-## Occupation
+### Certificates
 
-`1600`
-__Royal Mint__, London
+`2016`
+JAVA SE 7 OCA
 
-- Warden
-- Minted coins
+`2015`
+LINUX LPIC-1 101-102
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+## Hobbies
+
+- Open Source contributions
+- Reading and learning
+- Crossfit
+- Snowboarding
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2019 -->
 
 
