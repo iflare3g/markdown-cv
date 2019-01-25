@@ -65,17 +65,25 @@ Uninettuno University
 
 `2016 - 2017`
 __CISCO Skillzone Program__.  
-  - I attended the pilot project of Cisco in Italy at Elis College, focusing on aspects mainly related to IT,networking and data analysis, using Python technologies<(Pandas, Numpy, Scikit-learn, etc.) and develop-ing small algorithms Machine Learning and Neural Networks, using, for example, TensorFlow.
+  - I attended the pilot project of Cisco in Italy at Elis College, 
+  focusing on aspects mainly related to IT,networking and data analysis, 
+  using Python technologies(Pandas, Numpy, Scikit-learn, etc.) and develop-ing small 
+  algorithms Machine Learning and Neural Networks, using, for example, TensorFlow.
 
 `2015 - 2016`
 __IT SYSTEM ARCHITECT__. 
   - ELIS College
-  - I studied at ELIS College in Rome where I have developed knowledge mainly in these areas: OOP Java SE 7;Network-ing;Security;Database(MySQL)
+  - I studied at ELIS College in Rome
+    where I have developed knowledge 
+    mainly in these areas: OOP Java SE 7;
+    Network-ing;Security;Database(MySQL)
 
 `2010 - 2015`
 __DIPLOMA__. 
   - ITIS E. Ferrari 
-  - I graduate in informatics, where I have undertaken studies relating to computer networks, software development, relational databases and computer technology designing systems.
+  - I graduate in informatics, where I have undertaken 
+    studies relating to computer networks, 
+    software development,relational databases and computer technology designing systems.
   - Final rating: 100 cum Laude
 
 
