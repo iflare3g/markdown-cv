@@ -65,7 +65,7 @@ Uninettuno University
 
 `2016 - 2017`
 __CISCO Skillzone Program__.  
-  - I attended the pilot project of Cisco in Italy at Elis College, focusing on aspects mainly related to IT,networking and data analysis, using Python technologies (Pandas, Numpy, Scikit-learn, etc.) and develop-ing small algorithms Machine Learning and Neural Networks, using, for example, TensorFlow.
+  - I attended the pilot project of Cisco in Italy at Elis College, focusing on aspects mainly related to IT,networking and data analysis, using Python technologies<(Pandas, Numpy, Scikit-learn, etc.) and develop-ing small algorithms Machine Learning and Neural Networks, using, for example, TensorFlow.
 
 `2015 - 2016`
 __IT SYSTEM ARCHITECT__. 
