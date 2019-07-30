@@ -5,6 +5,10 @@ title: Mirco Grillo's CV
 # Mirco Grillo
 Software Developer. Python lover. Always curious.
 
+<img src="https://www199.lunapic.com/do-not-link-here-use-hosting-instead/156448153518632285?3552401475"
+     alt="Mirco Grillo portrait"
+     style="float: center; margin-right: 10px;border-radius:25px;border:1px solid grey" />
+
 <div id="webaddress">
 <a href="mailto:mirco.grillomg@gmail.com">mirco.grillomg@gmail.com</a>
 | <a href="https://linkedin.com/in/mirco-grillo-680a96117/">Linkedin Profile</a>
@@ -14,15 +18,19 @@ Software Developer. Python lover. Always curious.
 
 ## Currently
 
-Fullstack Developer - __OTIX srl__. 
+Fullstack Developer - __OTIX srl__  [website](https://otix.it). 
 
 __Current stack__
-  - Python 3.x
-  - Django 2.x
-  - ReactJS 16.x.x
-  - HTML5, CSS3, ES6/ES7
-  - Docker 
+  - Python
+  - Django
+  - ReactJS
+  - GatsbyJS 
+  - NextJS
+  - HTML5, CSS3/SASS, Javascript
   - MySQL/Postgres
+  - Docker
+  - PaaS ( Heroku, Netlify )
+  - IaaS ( AWS )
 
 ## Employment
 
@@ -107,7 +115,7 @@ LINUX LPIC-1 101-102
 
 ## Hobbies
 
-- Open Source contributions
+- Open Source contributions -> [PyRoma](https://github.com/PyRoma/PyRoma-website), [Python Italia Telegram Bot](https://github.com/Kavuti/python-italy-telegram-bot), [Magical Commands for BASH](https://github.com/championballer/Magical-Commands-for-BASH)
 - Reading and learning
 - Crossfit
 - Snowboarding
@@ -116,6 +124,4 @@ LINUX LPIC-1 101-102
 
 <!-- ### Footer
 
-Last updated: Jan 2019 -->
-
-
+Last updated: Jul 2019 -->
