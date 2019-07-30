@@ -5,9 +5,7 @@ title: Mirco Grillo's CV
 # Mirco Grillo
 Software Developer. Python lover. Always curious.
 
-<img src="mirco-cv.jpeg"
-     alt="Mirco Grillo portrait"
-     style="float: left; margin-right: 10px;height:50px;" />
+![Mirco Grillo portrait](mirco-cv.jpeg)
 
 <div id="webaddress">
 <a href="mailto:mirco.grillomg@gmail.com">mirco.grillomg@gmail.com</a>
