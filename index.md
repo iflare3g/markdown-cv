@@ -9,8 +9,8 @@ Software Developer. Python lover. Always curious.
 
 <div id="webaddress">
 <a href="mailto:mirco.grillomg@gmail.com">mirco.grillomg@gmail.com</a>
-| <a href="https://linkedin.com/in/mirco-grillo-680a96117/">Linkedin Profile</a>
-| <a href="https://github.com/iflare3g/">Github Profile</a>
+| <a href="https://linkedin.com/in/mirco-grillo-680a96117/">https://linkedin.com/in/mirco-grillo-680a96117/</a>
+| <a href="https://github.com/iflare3g/">https://github.com/iflare3g/</a>
 </div>
 
 
