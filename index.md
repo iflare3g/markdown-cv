@@ -32,7 +32,7 @@ __Current stack__
 
 ## Employment
 
-`Dec 2017 - Jul 2018`
+##### Dec 2017 - Jul 2018
 __World Food Programme for Softlab Innovation__.  
 __Where__: Rome(IT)
   - Django Developer
