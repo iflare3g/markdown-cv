@@ -7,7 +7,7 @@ Software Developer. Python lover. Always curious.
 
 <img src="mirco-cv.jpeg"
      alt="Mirco Grillo portrait"
-     style="float: left; margin-right: 10px;height="50px;"" />
+     style="float: left; margin-right: 10px;height:"50px;"" />
 
 <div id="webaddress">
 <a href="mailto:mirco.grillomg@gmail.com">mirco.grillomg@gmail.com</a>
