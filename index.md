@@ -5,7 +5,7 @@ title: Mirco Grillo's CV
 # Mirco Grillo
 Software Developer. Python lover. Always curious.
 
-<img src="https://www199.lunapic.com/do-not-link-here-use-hosting-instead/156448153518632285?3552401475"
+<img src="mirco-cv.jpeg"
      alt="Mirco Grillo portrait"
      style="float: center; margin-right: 10px;border-radius:25px;border:1px solid grey" />
 
